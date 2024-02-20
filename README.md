@@ -66,6 +66,7 @@ AWS Glue crawlers are used to infer schema and organize metadata in the Glue Dat
 
 - Setup a dashboard for data visualization, potentially using AWS Quicksight or other BI tools.
 - Explore handling of special characters (like commas) in data extraction and transformation processes.
+- 
 ![Python](URL_to_Python_icon)
 ![AWS S3](URL_to_AWS_S3_icon)
 ![AWS Lambda](URL_to_AWS_Lambda_icon)
