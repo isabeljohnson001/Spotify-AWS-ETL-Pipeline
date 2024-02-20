@@ -12,13 +12,26 @@ The main goal is to leverage the Spotify API and AWS services to build an ETL pi
 
 ### Tools and Services Used
 
-- **Python**: For scripting the ETL process.
+- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp; **Python**: For scripting the ETL process.
 - **AWS S3**: To store raw and processed data.
 - **AWS Lambda**: To run Python code for data extraction and transformation.
 - **AWS CloudWatch**: For monitoring and logging.
 - **AWS EventBridge**: To schedule data extraction.
 - **AWS Glue**: For data cataloging and running crawlers to infer schema.
 - **Amazon Athena**: To query transformed data.
+- **🛠  Languages and Tools :**
+<br/>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+<br/>
 
 ## Pre-requisites
 
