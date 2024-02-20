@@ -6,7 +6,7 @@ Tools and Services Used - Python,AWS S3,AWS Lambda,AWS CloudWatch,AWS EventBridg
 
 ### Pre-requisites
 
-- [Spotify API](#spotify-api) credentials setup (Client ID and Client Secret)
+- [Spotify API]([Spotify API](#1spotify-api) credentials setup (Client ID and Client Secret)
 - AWS account setup with permissions for Lambda, [S3 folder stucture](#S3-Bucket-folder-structure), Glue, and Athena.
 - Python environment for initial script development.
 
