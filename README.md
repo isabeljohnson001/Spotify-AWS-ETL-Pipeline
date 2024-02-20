@@ -2,7 +2,7 @@
 
 This project demonstrates the development of an ETL (Extract, Transform, Load) pipeline using Python and AWS services to process data from Spotify's "Discover Weekly" playlist. The pipeline extracts artist, album, and song information, transforms this data for analysis, and loads it into Amazon S3, with querying capabilities via Amazon Athena.
 
-## Architecture Overview
+### Architecture Overview
 
 ![Architecture Diagram](path/to/your/architecture/diagram/image)
 
@@ -17,7 +17,7 @@ This project demonstrates the development of an ETL (Extract, Transform, Load) p
 - **Amazon Athena**: To query transformed data.
 
   
-## Pre-requisites
+### Pre-requisites
 
 - Spotify API credentials (Client ID and Client Secret).
 - AWS account setup with permissions for Lambda, S3, Glue, and Athena.
