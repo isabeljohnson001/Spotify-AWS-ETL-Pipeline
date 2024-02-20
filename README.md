@@ -1,6 +1,6 @@
 # Spotify Data Engineering Project with AWS
 
-This project demonstrates the development of an ETL (Extract, Transform, Load) pipeline using Python and AWS services to process data from Spotify's "Discover Weekly" playlist. The pipeline extracts artist, album, and song information, transforms this data for analysis, and loads it into Amazon S3, with querying capabilities via Amazon Athena.
+This project demonstrates the development of an ETL (Extract, Transform, Load) pipeline using Python and AWS services to extract  extracts artist, album, and song information from Spotify's "Discover Weekly" playlist,which updates every Monday with 30 personalized songs for each user. he process includes pulling data from the Spotify API, modifying it to make it ready for analysis, uploading the adjusted data to Amazon S3, and then accessing this data for queries through Amazon Athena, with the use of AWS Glue for managing catalogs and metadata.
 
 Objective
 The main goal is to leverage the Spotify API and AWS services to build an ETL pipeline that processes data from the "Discover Weekly" playlist, which updates every Monday with 30 personalized songs for each user.
