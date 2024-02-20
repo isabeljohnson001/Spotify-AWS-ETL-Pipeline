@@ -9,6 +9,7 @@ raw_data: This directory holds the initial data gathered.
 to_process: Data fetched from the API is stored here upon triggering the data extraction function.
 processed: After the transformation function runs, the data from the to_process directory is moved here, effectively transferring files from one location to another while the originals in to_process are removed.
 transformed_data: This directory is segmented into three subdirectories, each dedicated to holding datasets that have undergone basic cleaning and structuring.
+</br>
 album_data
 </br>
 artist_data
