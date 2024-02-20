@@ -6,7 +6,7 @@ Tools and Services Used - Python,AWS S3,AWS Lambda,AWS CloudWatch,AWS EventBridg
 
 ### Pre-requisites
 
-- [Spotify API](#spotify-api) credentials setup (Client ID and Client Secret)
+- [Spotify API](#1.Spotify API) credentials setup (Client ID and Client Secret)
 - AWS account setup with permissions for Lambda, [S3 folder stucture](#S3-Bucket-folder-structure), Glue, and Athena.
 - Python environment for initial script development.
 
@@ -16,7 +16,7 @@ Tools and Services Used - Python,AWS S3,AWS Lambda,AWS CloudWatch,AWS EventBridg
 
 ### Pre-requisites Setup
 
-### 1. Spotify API
+### 1.Spotify API
 
 For interacting with the Spotify API, it's necessary to first secure authentication credentials. This involves setting up an account on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/)
  and registering your application there. Upon registration, we 'll recieve a pair of api credentials: a Client ID and a Client Secret, which are essential for application's authentication and authorization processes.
