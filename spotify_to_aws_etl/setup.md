@@ -1,12 +1,17 @@
 # ETL Setup Instructions
 
 ## 1.Create a bucket in S3
-This is the folder structure in the S3 bucket I created:
-/discover_weekly: Main folder in bucket
-/raw_data: Raw data is stored here
-* to_process: When the data extraction function is invoked, data extracted from the API will be stored here
-* processed: When the transformation function is invoked, files in to_process folder will be copied to this folder and the file in to_process will be deleted. We are just moving data from one folder to another.
-/transformed_data: These 3 folders will contain the transformed dataset where basic cleaning and transformation have been applied.
-* /album_data
-* /artist_data
-* /song_data
+
+In the S3 bucket I set up, the structure is organized as follows:
+
+discover_weekly: This is the primary directory within the bucket.
+raw_data: This directory holds the initial data gathered.
+to_process: Data fetched from the API is stored here upon triggering the data extraction function.
+processed: After the transformation function runs, the data from the to_process directory is moved here, effectively transferring files from one location to another while the originals in to_process are removed.
+transformed_data: This directory is segmented into three subdirectories, each dedicated to holding datasets that have undergone basic cleaning and structuring.
+album_data
+</br>
+artist_data
+</br>
+song_data
+</br>
