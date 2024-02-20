@@ -16,7 +16,7 @@ Tools and Services Used - Python,AWS S3,AWS Lambda,AWS CloudWatch,AWS EventBridg
 
 ### Analytics and Rporting
 
-![Spotify Analytics Dashboard](spotify_to_aws_etl/Spotify-AWS-ETL.png)
+![Spotify Analytics Dashboard](spotify_to_aws_etl/BI/Spotify-Analytics-Dashboard.png)
 
 ### Pre-requisites Setup
 
