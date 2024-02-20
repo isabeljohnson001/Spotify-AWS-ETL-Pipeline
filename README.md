@@ -15,9 +15,8 @@ This project demonstrates the development of an ETL (Extract, Transform, Load) p
 - **AWS EventBridge**: To schedule data extraction.
 - **AWS Glue**: For data cataloging and running crawlers to infer schema.
 - **Amazon Athena**: To query transformed data.
-- **🛠  Languages and Tools :**
-<br/>
 
+  
 ## Pre-requisites
 
 - Spotify API credentials (Client ID and Client Secret).
