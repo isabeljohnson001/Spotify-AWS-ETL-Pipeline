@@ -14,8 +14,6 @@ Tools and Services Used - Python,AWS S3,AWS Lambda,AWS CloudWatch,AWS EventBridg
 
 ![Architecture Diagram](spotify_to_aws_etl/Spotify-AWS-ETL.png)
 
-### ETL Setup
-![ETL Setup](spotify_to_aws_etl/Spotify-AWS-ETL.png)
 
 
   
