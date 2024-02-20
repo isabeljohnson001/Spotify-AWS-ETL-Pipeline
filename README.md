@@ -32,6 +32,12 @@ The main goal is to leverage the Spotify API and AWS services to build an ETL pi
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 <br/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://myicons.co/static/icons/logos/aws-s3.svg" title="AWS S3" alt="AWS S3" width="40" height="40"/>&nbsp;
+<img src="https://myicons.co/static/icons/logos/aws-lambda.svg" title="AWS Lambda" alt="AWS Lambda" width="40" height="40"/>&nbsp;
+<img src="https://myicons.co/static/icons/logos/aws-glue.svg" title="AWS Glue" alt="AWS Glue" width="40" height="40"/>&nbsp;
+<img src="https://myicons.co/static/icons/logos/aws-athena.svg" title="Amazon Athena" alt="Amazon Athena" width="40" height="40"/>&nbsp;
 
 ## Pre-requisites
 
