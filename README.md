@@ -4,7 +4,7 @@ This project demonstrates the development of an ETL (Extract, Transform, Load) p
 
 ### Architecture Overview
 
-![Architecture Diagram](path/to/your/architecture/diagram/image)
+![Architecture Diagram](spotify_to_aws_etl/Spotify-AWS-ETL.png)
 
 ### Tools and Services Used
 
